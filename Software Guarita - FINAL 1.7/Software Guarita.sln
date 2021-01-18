@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Software Guarita", "Software Guarita\Software Guarita.vbproj", "{562614F1-DD38-4155-9BD8-C970F56324E4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Software_Guaritas", "Software Guarita\instalador\Software_Guaritas\Software_Guaritas.vdproj", "{F9406A1A-6917-4CD9-A5A1-5E6F1617932D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{562614F1-DD38-4155-9BD8-C970F56324E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562614F1-DD38-4155-9BD8-C970F56324E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{562614F1-DD38-4155-9BD8-C970F56324E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{562614F1-DD38-4155-9BD8-C970F56324E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9406A1A-6917-4CD9-A5A1-5E6F1617932D}.Debug|Any CPU.ActiveCfg = Debug
+		{F9406A1A-6917-4CD9-A5A1-5E6F1617932D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D39E0A3D-E641-486C-895B-1070D14570CD}
+	EndGlobalSection
+EndGlobal
